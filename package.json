@@ -1,6 +1,6 @@
 {
   "name": "@rdhainaut/unplugin-vue-i18n",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "unplugin for Vue I18n",
   "author": {
     "name": "raphael dhainaut",
@@ -26,7 +26,7 @@
     }
   },
   "dependencies": {
-    "@intlify/bundle-utils": "^5.4.0",
+    "@rdhainaut/bundle-utils": "^6.0.0",
     "@intlify/shared": "9.3.0-beta.17",
     "@rollup/pluginutils": "^5.0.2",
     "@vue/compiler-sfc": "^3.2.47",
